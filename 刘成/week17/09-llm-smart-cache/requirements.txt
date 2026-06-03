@@ -1,0 +1,6 @@
+redis
+numpy
+faiss-cpu
+Levenshtein
+pytest
+openai
